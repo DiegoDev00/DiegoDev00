@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="<img width="386" height="265" alt="image" src="" />
+<img width="386" height="265" alt="image" src="" />
 "  />
 
 ###
