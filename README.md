@@ -10,7 +10,7 @@
 
 
 ###
-<h3>Dev front-end</h3>
+<h3>front-end</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-<h3>Dev front-end</h3>
+<h3>Back-end</h3>
 
 ###
 
